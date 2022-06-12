@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/casino/static/css/main.f3509d1d.chunk.css",
-    "main.js": "/casino/static/js/main.21a1c70e.chunk.js",
-    "main.js.map": "/casino/static/js/main.21a1c70e.chunk.js.map",
+    "main.css": "/casino/static/css/main.0aaf4907.chunk.css",
+    "main.js": "/casino/static/js/main.e9062af1.chunk.js",
+    "main.js.map": "/casino/static/js/main.e9062af1.chunk.js.map",
     "runtime-main.js": "/casino/static/js/runtime-main.1403cf36.js",
     "runtime-main.js.map": "/casino/static/js/runtime-main.1403cf36.js.map",
     "static/js/2.bbe10fc1.chunk.js": "/casino/static/js/2.bbe10fc1.chunk.js",
     "static/js/2.bbe10fc1.chunk.js.map": "/casino/static/js/2.bbe10fc1.chunk.js.map",
     "index.html": "/casino/index.html",
-    "static/css/main.f3509d1d.chunk.css.map": "/casino/static/css/main.f3509d1d.chunk.css.map",
+    "static/css/main.0aaf4907.chunk.css.map": "/casino/static/css/main.0aaf4907.chunk.css.map",
     "static/js/2.bbe10fc1.chunk.js.LICENSE.txt": "/casino/static/js/2.bbe10fc1.chunk.js.LICENSE.txt",
     "static/media/betPanel.css": "/casino/static/media/betButton.1bbf5a4d.png",
-    "static/media/infoBlock.css": "/casino/static/media/bg_intro_m.025db385.jpg",
+    "static/media/infoBlock.css": "/casino/static/media/bg_intro_m.c6dd5f1e.png",
     "static/media/profileLabel.css": "/casino/static/media/setting.c30bd410.png",
-    "static/media/gameCard.css": "/casino/static/media/roulette_european.d666ffb9.png",
+    "static/media/gameCard.css": "/casino/static/media/roulette_european.fc2aab51.png",
     "static/media/contact.css": "/casino/static/media/footer-bg.151cf0e1.png",
     "static/media/navBar.css": "/casino/static/media/title.9ebf7981.png",
+    "static/media/promoBlock.css": "/casino/static/media/msgBoard.6e606a97.png",
     "static/media/spinWheel.css": "/casino/static/media/spinWheel.5b844d09.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1403cf36.js",
     "static/js/2.bbe10fc1.chunk.js",
-    "static/css/main.f3509d1d.chunk.css",
-    "static/js/main.21a1c70e.chunk.js"
+    "static/css/main.0aaf4907.chunk.css",
+    "static/js/main.e9062af1.chunk.js"
   ]
 }
