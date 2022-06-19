@@ -1,29 +1,33 @@
 {
   "files": {
-    "main.css": "/casino/static/css/main.0662444d.chunk.css",
-    "main.js": "/casino/static/js/main.50b72f4b.chunk.js",
-    "main.js.map": "/casino/static/js/main.50b72f4b.chunk.js.map",
+    "main.css": "/casino/static/css/main.651fedee.chunk.css",
+    "main.js": "/casino/static/js/main.06b16381.chunk.js",
+    "main.js.map": "/casino/static/js/main.06b16381.chunk.js.map",
     "runtime-main.js": "/casino/static/js/runtime-main.1403cf36.js",
     "runtime-main.js.map": "/casino/static/js/runtime-main.1403cf36.js.map",
-    "static/js/2.29f0845b.chunk.js": "/casino/static/js/2.29f0845b.chunk.js",
-    "static/js/2.29f0845b.chunk.js.map": "/casino/static/js/2.29f0845b.chunk.js.map",
+    "static/js/2.c2e811f2.chunk.js": "/casino/static/js/2.c2e811f2.chunk.js",
+    "static/js/2.c2e811f2.chunk.js.map": "/casino/static/js/2.c2e811f2.chunk.js.map",
     "index.html": "/casino/index.html",
-    "static/css/main.0662444d.chunk.css.map": "/casino/static/css/main.0662444d.chunk.css.map",
-    "static/js/2.29f0845b.chunk.js.LICENSE.txt": "/casino/static/js/2.29f0845b.chunk.js.LICENSE.txt",
+    "static/css/main.651fedee.chunk.css.map": "/casino/static/css/main.651fedee.chunk.css.map",
+    "static/js/2.c2e811f2.chunk.js.LICENSE.txt": "/casino/static/js/2.c2e811f2.chunk.js.LICENSE.txt",
+    "static/media/Card.6f3c7298.wav": "/casino/static/media/Card.6f3c7298.wav",
     "static/media/betPanel.css": "/casino/static/media/betButton.1bbf5a4d.png",
     "static/media/infoBlock.css": "/casino/static/media/bg_intro_m.c6dd5f1e.png",
+    "static/media/cardDisp.5c1990de.png": "/casino/static/media/cardDisp.5c1990de.png",
+    "static/media/cards.197412c1.png": "/casino/static/media/cards.197412c1.png",
     "static/media/profileLabel.css": "/casino/static/media/setting.c30bd410.png",
     "static/media/gameCard.css": "/casino/static/media/roulette_european.fc2aab51.png",
     "static/media/contact.css": "/casino/static/media/footer-bg.151cf0e1.png",
     "static/media/navBar.css": "/casino/static/media/title.9ebf7981.png",
     "static/media/promoBlock.css": "/casino/static/media/msgBoard.6e606a97.png",
     "static/media/spinWheel.css": "/casino/static/media/spinWheel.5b844d09.png",
-    "static/media/table.css": "/casino/static/media/table.73c27792.png"
+    "static/media/table.css": "/casino/static/media/table.5855a7c9.png",
+    "static/media/win.851d41c7.mp3": "/casino/static/media/win.851d41c7.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.1403cf36.js",
-    "static/js/2.29f0845b.chunk.js",
-    "static/css/main.0662444d.chunk.css",
-    "static/js/main.50b72f4b.chunk.js"
+    "static/js/2.c2e811f2.chunk.js",
+    "static/css/main.651fedee.chunk.css",
+    "static/js/main.06b16381.chunk.js"
   ]
 }
