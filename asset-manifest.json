@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/casino/static/css/main.f07ee2b7.chunk.css",
-    "main.js": "/casino/static/js/main.a95d0b4b.chunk.js",
+    "main.css": "/casino/static/css/main.6bd0c630.chunk.css",
+    "main.js": "/casino/static/js/main.f337c44d.chunk.js",
     "runtime-main.js": "/casino/static/js/runtime-main.1403cf36.js",
-    "static/js/2.f98aec22.chunk.js": "/casino/static/js/2.f98aec22.chunk.js",
+    "static/js/2.5a80013d.chunk.js": "/casino/static/js/2.5a80013d.chunk.js",
     "index.html": "/casino/index.html",
-    "static/js/2.f98aec22.chunk.js.LICENSE.txt": "/casino/static/js/2.f98aec22.chunk.js.LICENSE.txt",
+    "static/js/2.5a80013d.chunk.js.LICENSE.txt": "/casino/static/js/2.5a80013d.chunk.js.LICENSE.txt",
     "static/media/Card.6f3c7298.wav": "/casino/static/media/Card.6f3c7298.wav",
     "static/media/betPanel.css": "/casino/static/media/betButton.1bbf5a4d.png",
     "static/media/infoBlock.css": "/casino/static/media/bg_intro_m.c6dd5f1e.png",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.1403cf36.js",
-    "static/js/2.f98aec22.chunk.js",
-    "static/css/main.f07ee2b7.chunk.css",
-    "static/js/main.a95d0b4b.chunk.js"
+    "static/js/2.5a80013d.chunk.js",
+    "static/css/main.6bd0c630.chunk.css",
+    "static/js/main.f337c44d.chunk.js"
   ]
 }
