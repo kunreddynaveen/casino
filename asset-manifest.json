@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/casino/static/css/main.e213dbcf.chunk.css",
-    "main.js": "/casino/static/js/main.f399fee5.chunk.js",
+    "main.css": "/casino/static/css/main.121b3d98.chunk.css",
+    "main.js": "/casino/static/js/main.df9f9b39.chunk.js",
     "runtime-main.js": "/casino/static/js/runtime-main.1403cf36.js",
     "static/js/2.42b79055.chunk.js": "/casino/static/js/2.42b79055.chunk.js",
     "index.html": "/casino/index.html",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.1403cf36.js",
     "static/js/2.42b79055.chunk.js",
-    "static/css/main.e213dbcf.chunk.css",
-    "static/js/main.f399fee5.chunk.js"
+    "static/css/main.121b3d98.chunk.css",
+    "static/js/main.df9f9b39.chunk.js"
   ]
 }
